@@ -26,7 +26,7 @@ e.g.
 - 当执行递归压缩且碰到有同名的文件时，重名的原文件会自动被更名，并移动到$backup目录中
 - 可以对相同图片进行反复压缩——反正你可以反复执行此脚本来反复压缩你的图片
 - tinypng的压缩能力不是一般的无损或有损压缩工具能媲美的（此处的工具不仅指：optipng/imagemagick/trimage/jpegtran）
-- 每月只能免费压缩500张图片。（The first 500 compressions each month are free.）对我个人而言，绰绰有余。
+- 每月只能免费压缩500张图片。（The first 500 compressions each month are free.）对我而言绰绰有余。(多个KEY... :P)
 
 ## 效果示例（Sample）
 ![](http://ww1.sinaimg.cn/large/9c4ddab1jw1f0hzqvc734j20gj06z40c.jpg)
